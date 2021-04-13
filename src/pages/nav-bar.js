@@ -12,4 +12,4 @@ function NavBar() {
     );
 }
  
-export default 
+export default NavBar
